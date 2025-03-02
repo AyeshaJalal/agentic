@@ -20,8 +20,3 @@ data = {
 
 # Display the table using streamlit
 st.table(data)
-# Create a button
-if st.button("Click me!"):
-    st.write("You clicked the button!")
-    
-
